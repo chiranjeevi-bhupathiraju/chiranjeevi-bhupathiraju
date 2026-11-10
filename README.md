@@ -1,6 +1,6 @@
 # Hi, I'm Chiranjeevi Varma Bhupathiraju 👋
 
-📍 **Hyderabad, India** | ⚛️ **Frontend Developer** | 💼 **Software Engineer @ iSpace Inc.** | **250 DSA**
+📍 **Hyderabad, India** | ⚛️ **Frontend Developer** | 💼 **Software Engineer @ iSpace Inc.** | **270 DSA**
 
 Frontend Engineer with around 4 years of experience building scalable enterprise web applications with React.js, Next.js, TypeScript, Redux, Tailwind CSS, and Material UI.
 
