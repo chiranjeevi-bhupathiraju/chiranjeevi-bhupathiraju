@@ -29,9 +29,9 @@ Frontend Engineer with around 4 years of experience building scalable enterprise
 
 ## Github Projects
 
-- 🛒 **[Fresh Cart](https://github.com/chiranjeevi-bhupathiraju/vite-app-fresh-cart)** · [Live demo](https://vite-app-fresh-cart-cb.vercel.app/)
-- 🚗 **[Rent Wheels](https://github.com/chiranjeevi-bhupathiraju/next-app-rent-wheels)** · [Live demo](https://next-app-rent-wheels-cb.vercel.app/)
-- ✅ **[Action Plan](https://github.com/chiranjeevi-bhupathiraju/cra-app-action-plan)** · [Live demo](https://cra-app-action-plan-cb.vercel.app/)
+- 🛒 **[Fresh Cart](https://github.com/chiranjeevi-bhupathiraju/vite-app-fresh-cart)** · [Live demo](https://react-app-vite-cb.vercel.app/)
+- 🚗 **[Rent Wheels](https://github.com/chiranjeevi-bhupathiraju/next-app-rent-wheels)** · [Live demo](https://rent-wheels-cb.vercel.app/)
+- ✅ **[Action Plan](https://github.com/chiranjeevi-bhupathiraju/cra-app-action-plan)** · [Live demo](https://react-app-cra-cb.vercel.app/)
 
 
 ## Professional Experience
