@@ -2,6 +2,7 @@
 
 📍 **Hyderabad, India** | ⚛️ **Frontend Developer** | 💼 **Software Engineer @ iSpace Inc.** | **333 DSA**
 
+Expert in React.js | 4 Years | Leetcode 333 DSA | Software Engineer @ iSpace, Inc
 Frontend Engineer with around 4 years of experience building scalable enterprise web applications with React.js, Next.js, TypeScript, Redux, Tailwind CSS, and Material UI.
 
 
